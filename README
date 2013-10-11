@@ -1,0 +1,2 @@
+usage:
+    python markov.py --nick1 firstnick --nick2 secondnick -f theirssi.log
